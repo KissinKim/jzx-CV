@@ -19,8 +19,7 @@ Chengdu, Sichuan Province, China
   
 ## Skills
 - Microsoft Office/SQL server
-- AutoCAD/CASS 
-- ArcGIS/Erdas
+- AutoCAD/CASS/ArcGIS/Erdas 
 - C++/MatLab/C#/R
 
 ## Certificates
