@@ -32,10 +32,10 @@ Chengdu, Sichuan Province, China
 - TOEFL:95
 
 ## Practice Experience
-- Campus Talk for Students'Admissions Social Practice in 2016.3
+- "Campus Talk for Students' Admissions" Social Practice in 2016.3
 - Vocational Skills Training of Mapping and Surveying in 2016.5
 - Digital Mapping Practice in 2016.7
-- SanXiaXiang Social Practice in 2016.8
+- "SanXiaXiang" Social Practice in 2016.8
 - Control Measurement Practice and Adjustment Intership in 2017.7
 
 ## Orgnazation Experience
