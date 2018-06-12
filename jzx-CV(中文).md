@@ -1,3 +1,4 @@
+
 ## 个人信息
 
  - 姓名：金泽旭
@@ -27,18 +28,17 @@
 ## 技能
 - Microsoft Office/SQL server
 - AutoCAD/CASS/ArcGIS/Erdas 
-- C++/MatLab/C#/R
+- C++/MatLab
 
 ## 证书
 - NECCS 四川省三等奖
 - The Data Scientist’s Toolbox by JHU on Coursera. [Certificate](https://www.coursera.org/account/accomplishments/certificate/MFGXJ5BV9SU2) earned at Monday, April 23, 2018 11:58 PM GMT
 -  R Programming by JHU on Coursera. [Certificate](https://www.coursera.org/account/accomplishments/certificate/XAUPCLQ4GS5P) earned at Wednesday, May 2, 2018 12:47 AM GMT
--  CET4：584
--  CET6：576
+-  CET4：584/CET6：576
 -  TOEFL：95
 
 ## 实践经历
-- 大学生寒假社会实践（2016.2）
+- 大学生寒假高校宣讲会社会实践（2016.2）
 - 测绘职业技能实训（2016.5）
 - 数字测图实习（2016.7）
 - “三下乡”社会实践（2016.8）
@@ -47,7 +47,7 @@
 
 ## 组织经历
 - 控制测量实习小组组长（2017.07）
-- 两个校级千人规模的学生活总策划
+- 两个校级千人规模的学生活总策划（2016-2017）
 - 西南交通大学招生宣传志愿者协会创意部部长（2016-2017）
 
 
@@ -55,5 +55,3 @@
 - 业余钢琴八级水平
 - Coursera 和其他线上课程
 - 旅行和电影
-
-
