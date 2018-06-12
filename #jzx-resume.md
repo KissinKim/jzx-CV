@@ -20,15 +20,14 @@ Chengdu, Sichuan Province, China
 ## Skills
 - Microsoft Office/SQL server
 - AutoCAD/CASS/ArcGIS/Erdas 
-- C++/MatLab/C#/R
+- C++/MatLab
 
 ## Certificates
 - Third Prize in Sichuan NECCS
 - Grade 8 piano Amateur Certificate
 - The Data Scientist’s Toolbox by JHU on Coursera. [Certificate](https://www.coursera.org/account/accomplishments/certificate/MFGXJ5BV9SU2) earned at Monday, April 23, 2018 11:58 PM GMT
 - R Programming by JHU on Coursera. [Certificate](https://www.coursera.org/account/accomplishments/certificate/XAUPCLQ4GS5P) earned at Wednesday, May 2, 2018 12:47 AM GMT
-- CET4:584
-- CET6:576
+- CET4:584/CET6:576
 - TOEFL:95
 
 ## Practice Experience
